@@ -1,0 +1,11 @@
+site_name: Meu Caderno de Algoritmos
+
+theme:
+  name: material
+  features:
+    - content.tabs.link
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
